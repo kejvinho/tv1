@@ -1,39 +1,90 @@
 #EXTM3U 
 
+#EXTINF:-1 group-title="Kombetare",Top Channel
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts
+
 #EXTINF:-1 group-title="Kombetare",TV Klan 
-http://5.135.92.130:8686/live/klanhdmob/playlist.m3u8
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts
 
-#EXTINF:-1 group-title="Kombetare",Syri 
-http://5.135.92.130:8686/live/syritvmob/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare",Vizion PluS
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/94102.ts
 
-#EXTINF:-1 group-title="Kombetare",Klan Nostalgji
-http://5.135.92.130:8686/live/klannostalgjimob/playlist.m3u8
 
-#EXTINF:-1 group-title="Kombetare",Klan Plus 
-http://5.135.92.130:8686/live/klanplusott88/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare",Klan Plus
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/30143.ts
 
-#EXTINF:-1 group-title="Kombetare",Ora News
-http://5.135.92.130:8686/live/oranewspp1/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare",PORTOKALLI
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/11853.ts
 
-#EXTINF:-1 group-title="Kombetare",ABC HD
-http://5.135.92.130:8686/live/abcnewsmob/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare",APARTAMENTI 2XL
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/88195.ts
+
+#EXTINF:-1 group-title="Kombetare",BANG BANG
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/104644.ts
+
+
+
+#EXTINF:-1 group-title="Kombetare",CUFO
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/2467.ts
+
+
+#EXTINF:-1 group-title="Kombetare",Alsat M
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/30140.ts
+
+#EXTINF:-1 group-title="Kombetare",Syri TV 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/32718.ts
+
 
 #EXTINF:-1 group-title="Kombetare",News 24
-http://5.135.92.130:8686/live/news24mob/playlist.m3u8
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/30169.ts
 
-#EXTINF:-1 group-title="Kombetare",FAX News
-http://5.135.92.130:8686/live/faxnewsmobpp1/playlist.m3u8
 
-#EXTINF:-1 group-title="Kombetare",Klan Music
-http://5.135.92.130:8686/live/klanmusicmob/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare", Top News HD
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/4673.ts
 
-#EXTINF:-1 group-title="Kombetare",BBF
-http://5.135.92.130:8686/live/bbfott/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare", Klan News HD
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/51768.ts
 
-#EXTINF:-1 group-title="Kombetare",Ferma Vip 1
-http://5.135.92.130:8686/live/fermavip1mob/playlist.m3u8
 
-#EXTINF:-1 group-title="Kombetare",Ferma Vip 2
-http://5.135.92.130:8686/live/fermavip2mob/playlist.m3u8
+#EXTINF:-1 group-title="Kombetare", Kanali 7
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/961.ts
+
+#EXTINF:-1 group-title="Kombetare", ABC News 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/843.ts
+
+#EXTINF:-1 group-title="Kombetare", Syri News TV
+#http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33275
+
+#EXTINF:-1 group-title="Kombetare", Ora News 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/1001.ts
+
+#EXTINF:-1 group-title="Kombetare", Euro News 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/27158.ts
+
+
+#EXTINF:-1 group-title="Kombetare", Fax News 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/9533.ts
+
+
+#EXTINF:-1 group-title="Kombetare", Report
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/1461.ts | http://apptv.xyz:8080/live/09042027/bwGzYpJ/94027.ts
+
+
+
+#EXTINF:-1 group-title="Kombetare",RTSH Kuvend
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/88437.ts
+
+
+
+#EXTINF:-1 group-title="Kombetare",RTSH 2
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/10912.ts
+
+#EXTINF:-1 group-title="Kombetare",RTSH 3
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/11182.ts
+
+#EXTINF:-1 group-title="Kombetare",RTSH 24
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/10975.ts
+
+
 
 
