@@ -1,90 +1,496 @@
-#EXTM3U 
-
-#EXTINF:-1 Top Channel
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts
-
-#EXTINF:-1 TV Klan 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts
-
-#EXTINF:-1 Vizion PluS
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/94102.ts
+#EXTM3U
 
 
-#EXTINF:-1 Klan Plus
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/30143.ts
+############ KOMBËTARE ############
+#EXTINF:-1 group-title="Kombetare",Top Channel
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/94011.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412159
 
-#EXTINF:-1 PORTOKALLI
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/11853.ts
+#EXTINF:-1 tvg-id="13261" tvg-name="AL: TV Klan ⁴ᴷ" https://eagletv.kejvinho.workers.dev/stream?url=tvg-logo="https://fe.tring.al/api/v1/images/load?imageName=/chnnl/65/ff/11/37/f6be-4f72-9b87-648a06445f74.png&w=550&h=265" group-title="Kombetare",TV Klan 
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/94012.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412160
 
-#EXTINF:-1 APARTAMENTI 2XL
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/88195.ts
+#EXTINF:-1 group-title="Kombetare",Vizion PluS
+http://apptv.xyz:8080/09042027/bwGzYpJ/30152 | https://stream.arkiva.dev/seg/-_9mSp_clZ9vG7ZrQfGG2SkHq0d29UAKJ5xpd15g5eB7Io3EnPBPdQHQQZbRmDFJfrXpE2QIHKCm74ZLcYDfIS3lLiIB4SAwj2gSpS8jhjvs3l1EgiWFzZzGxQDLoF-tMc8n4ZdAS7QnNYGd73gV133W73jh | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126528 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126529
 
-#EXTINF:-1 BANG BANG
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/104644.ts
+#EXTINF:-1 group-title="Kombetare",Alsat M
+http://apptv.xyz:8080/09042027/bwGzYpJ/102394 | https://stream.arkiva.dev/seg/xOlcEPRHB8eNfTHX4WX4HmjsOrGru8Al2ouMqOfwNNxFLO0lTRtGrVV2Taxyu2Q74eh6x9cDg8IZZpyV5Km5ke24c_LT9rxMLoBkGO0WnQynXLXCUDujtjrS3YoHJZ2EMqz9BhF9wJD3LOcmvw | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126568
 
-
-
-#EXTINF:-1 CUFO
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/2467.ts
-
-
-#EXTINF:-1 Alsat M
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/30140.ts
-
-#EXTINF:-1 Syri TV 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/32718.ts
+#EXTINF:-1 group-title="Kombetare",Syri TV 
+http://apptv.xyz:8080/09042027/bwGzYpJ/94107 | https://sas24.live:443/27922223103749/87377791142054/972261 | https://stream.arkiva.dev/seg/4XMTRrPFp1wOfB6nCqvSfHXRog-b21U6YetuGSNaswTiKGnHtjkOEAn_T3jH7rRoYPkoQ_3hO-EPXcPxP8iDzMsbGyx-h2FpWGgjg-z4EKzw2qS2XSJinTSApAox-Ahj1WITo8eDgxVav9_kLQ | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33260
 
 
-#EXTINF:-1 News 24
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/30169.ts
+#EXTINF:-1 group-title="Kombetare",News 24
+http://apptv.xyz:8080/09042027/bwGzYpJ/94112 | https://sas24.live:443/27922223103749/87377791142054/972262 | https://stream.arkiva.dev/seg/d8IF8kwvrQPcEKqCUH_nzuuq2CK-YI8Q0ysZ7BCLJcKDVRKgDFxjzs0aZBv7x-GF7RsSWLgOAxtYtkLfUo9JzSoIje8i0RgXEuOsNs0UAgWFCGxTBYb_3TEGNPTrxNg6OXiZLej00K6JRdhpDLlbft0 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/91718
 
 
-#EXTINF:-1  Top News HD
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/4673.ts
+#EXTINF:-1 group-title="Kombetare", Top News HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/4673 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22631 | https://sas24.live:443/27922223103749/87377791142054/594490
 
-#EXTINF:-1  Klan News HD
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/51768.ts
+#EXTINF:-1 group-title="Kombetare", Klan News HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/51768 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180095 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3940
 
 
-#EXTINF:-1  Kanali 7
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/961.ts
+#EXTINF:-1 group-title="Kombetare", Kanali 7
+http://apptv.xyz:8080/09042027/bwGzYpJ/961 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33277 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3941 | https://sas24.live:443/27922223103749/87377791142054/972257 | https://sas24.live:443/27922223103749/87377791142054/972258
 
-#EXTINF:-1  ABC News 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/843.ts
+#EXTINF:-1 group-title="Kombetare", ABC News 
+http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33272 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3944 | https://sas24.live:443/27922223103749/87377791142054/972259 | https://sas24.live:443/27922223103749/87377791142054/972260
 
-#EXTINF:-1  Syri News TV
+#EXTINF:-1 group-title="Kombetare", Syri News TV
 #http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33275
 
-#EXTINF:-1  Ora News 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/1001.ts
+#EXTINF:-1 group-title="Kombetare", Ora News 
+http://apptv.xyz:8080/09042027/bwGzYpJ/94026 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/91719 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3939 | https://sas24.live:443/27922223103749/87377791142054/972263
 
-#EXTINF:-1  Euro News 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/27158.ts
-
-
-#EXTINF:-1  Fax News 
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/9533.ts
+#EXTINF:-1 group-title="Kombetare", Euro News 
+http://apptv.xyz:8080/09042027/bwGzYpJ/94029 | https://sas24.live:443/27922223103749/87377791142054/972269 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33273 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3943 | https://sas24.live:443/27922223103749/87377791142054/972268
 
 
-#EXTINF:-1  Report
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/1461.ts | http://apptv.xyz:8080/live/09042027/bwGzYpJ/94027.ts
+#EXTINF:-1 group-title="Kombetare", Fax News 
+http://apptv.xyz:8080/09042027/bwGzYpJ/94031 | https://sas24.live:443/27922223103749/87377791142054/972271 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33274 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3942 | https://sas24.live:443/27922223103749/87377791142054/972270
+
+
+#EXTINF:-1 group-title="Kombetare", Report
+http://apptv.xyz:8080/09042027/bwGzYpJ/94115 | https://sas24.live:443/27922223103749/87377791142054/972273 | https://sas24.live:443/27922223103749/87377791142054/972272 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33278 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/3938
+
+
+#EXTINF:-1 group-title="Kombetare", Sky News
+http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/807211 | https://sas24.live:443/27922223103749/87377791142054/972281
+
+#EXTINF:-1 group-title="Kombetare", Euro AL
+#http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/807214
+
+#EXTINF:-1 group-title="Kombetare", Zeri TV
+#http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/1235289
+
+
+#EXTINF:-1 group-title="Kombetare",Koha Vision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v2a1/mono.m3u8 | https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v2a1/2026/05/02/12/09/02-05000.ts | https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Kombetare",RTSH Kuvend
+http://apptv.xyz:8080/09042027/bwGzYpJ/88437 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126513 | https://sas24.live:443/27922223103749/87377791142054/972308
+
+
+#EXTINF:-1 group-title="Kombetare",RTSH Satelit
+http://apptv.xyz:8080/09042027/bwGzYpJ/110912
+
+#EXTINF:-1 group-title="Kombetare",RTSH Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/94040
+
+#EXTINF:-1 group-title="Kombetare",RTSH 1
+http://apptv.xyz:8080/09042027/bwGzYpJ/94037
+
+#EXTINF:-1 group-title="Kombetare",RTSH 2
+http://apptv.xyz:8080/09042027/bwGzYpJ/10912 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1060901.ts
+
+#EXTINF:-1 group-title="Kombetare",RTSH 3
+http://apptv.xyz:8080/09042027/bwGzYpJ/11182 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1060902.ts
+
+#EXTINF:-1 group-title="Kombetare",RTSH 24
+http://apptv.xyz:8080/09042027/bwGzYpJ/10975 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1060903.ts
+
+#EXTINF:-1 group-title="Kombetare",RTSH KORCA
+http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180178 | https://sas24.live:443/27922223103749/87377791142054/594237  
+
+
+#EXTINF:-1 group-title="Kombetare",Klan Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/102398 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412312 | http://apptv.xyz:8080/live/09042027/bwGzYpJ/94057.ts
 
 
 
-#EXTINF:-1 RTSH Kuvend
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/88437.ts
+#EXTINF:-1 group-title="Kombetare",MCN TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/94033 
+
+#EXTINF:-1 group-title="Kombetare",T 7
+http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/91714 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22621 | https://sas24.live:443/27922223103749/87377791142054/972209
+
+############ FILMA ############
+
+#EXTINF:-1 group-title="Filma",Klan Nostalgji
+https://stream.arkiva.dev/seg/XH064zoWZoAnUeL9-TURxNcXZt_ImHCIr4eGppxNrHi1wdMO3XkgC3D3bxfRylGv348HHX8MqOKY6LVOywMthNk_7lOdBinrohksoEk95YeB3_6Dz7GcGCfFgvCwQmUwfB7nAtJKeaGBu50qRp9QvuZFzsvp | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/1376877 | https://stream.arkiva.dev/seg/XH064zoWZoAnUeL9-TURxNcXZt_ImHCIr4eGppxNrHi1wdMO3XkgC3D3bxfRylGv348HHX8MqOKY6LVOywMthNk_7lOdBinrohksoEk95YeB3_6Dz7GcGCfFgvCwQmUwfB7nAtJKeaGBu50qRp9QvuZFzsvp 
+
+
+#EXTINF:-1 group-title="Filma",RTSH Shqip
+http://apptv.xyz:8080/09042027/bwGzYpJ/94043 | http://178.237.56.174:8080/live/27922223103749/87377791142054/972298.ts?token=cXHcdU.yXydcXf.y.yXydUzz.ydzffczUyz.X.y.AL.ts.153a68c1f3922da95946f0a6c3f3ae3754579fd22b99c71b99852d02a2a4f277...c2FzMjQubGl2ZQ==
+
+#EXTINF:-1 group-title="Filma",RTSH Film
+http://apptv.xyz:8080/09042027/bwGzYpJ/94136 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1060906.ts
+
+#EXTINF:-1 group-title="Filma",T HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/94054 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412325 | http://apptv.xyz:8080/live/09042027/bwGzYpJ/78725.ts | http://apptv.xyz:8080/live/09042027/bwGzYpJ/30172.ts
+
+#EXTINF:-1 group-title="Filma",TRing Original
+#http://apptv.xyz:8080/live/09042027/bwGzYpJ/77294.ts
+
+#EXTINF:-1 group-title="Filma",Tring Super
+http://apptv.xyz:8080/09042027/bwGzYpJ/94127 | https://stream.arkiva.dev/seg/4ofU9ddGb_2Udg8X-5UdM5exkFSOn6vWow_EG6ykeBXcb7A7NVCbaWz0qnocDXYpFuU1z2i9L8Wz8TVZ1YGat8iQRlnRLgBWSVuLAIoBC5Y0dZ8Ka7SaLvHWkm9FKkuyB8dafTaxVmcHIa0vRTlEMx8m7nut | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/91722 | https://sas24.live:443/27922223103749/87377791142054/972136
+
+
+#EXTINF:-1 group-title="Filma",Tring Action
+http://apptv.xyz:8080/09042027/bwGzYpJ/94130 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1061023.ts | https://stream.arkiva.dev/seg/l_juxkG2jeRcmTLwiQbXnSNFSUy4W4HQmPTAiIenj32-kFI5YDSiq_M0VyLgQGNIRf1WMEJyAeRBWreMYTsaIf7nspilUS_tlgKSoTdGtHxrVVR9IQlUdt96--br_C00YaXtkaAC_mdrAVojH1XhcRZ3gezV8mo | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180145 | https://sas24.live:443/27922223103749/87377791142054/972132
+
+
+#EXTINF:-1 group-title="Filma",Tring Comedy
+http://apptv.xyz:8080/09042027/bwGzYpJ/94131 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1061024.ts | https://stream.arkiva.dev/seg/xHckBb5RTIcSruQvWdap-h6-q1aWGGkBbCGr1iffYe6HqsIxJDfRojyvSRN64WRyYx8PkZJ8BvsNulHkH7fKugyCmh4o9c7hwTJTY8fqQcKZvALE2sTtHv4_-_3zpAJ3bBubI1YzI74aIFSLIePEX6R6Muv3_u8 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33225 | https://sas24.live:443/27922223103749/87377791142054/972133
+
+
+#EXTINF:-1 group-title="Filma",Tring Fantasy
+http://apptv.xyz:8080/09042027/bwGzYpJ/94132 | https://stream.arkiva.dev/seg/BA1BLFfEpWyL5wnUCtmGrtAdz_HQtDEdfVHlYGGW_pgKZ7Qp0yRaJ5SBW0-Rqyw_HdLH5CY_DD7rIa_KtjcqZdzoVpJH4wXrxSgfz6cp-buN9sa5RXHgWj6hJLo34ctWeontsfPWvUB0iMC7VlnxP17HMtnjGMNELA | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22633 | https://sas24.live:443/27922223103749/87377791142054/972135
+
+
+#EXTINF:-1 group-title="Filma",Tring Shqip
+http://apptv.xyz:8080/09042027/bwGzYpJ/1168 | https://stream.arkiva.dev/seg/9GN2EHsKGJDNludNoaRzrVG-Hzm7Cxvo-zwnTG_A5phYo0H7HSQtw2F2sQPFpU0dWoBs-txAYvJJjYs5mJQFzm9LGHkJm4xdUJ3r-t2WyRkM_dZDLdAi-zVHvvZq_5kFNRjHMsSSPjMSxoAtu3TPPjtXN45s | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22637 | https://sas24.live:443/27922223103749/87377791142054/972131
+
+#EXTINF:-1 group-title="Filma",Tring Family
+http://apptv.xyz:8080/09042027/bwGzYpJ/77682 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180143 | https://sas24.live:443/27922223103749/87377791142054/972138 | https://sas24.live:443/27922223103749/87377791142054/972138
+
+#EXTINF:-1 group-title="Filma",Tring Collection
+http://apptv.xyz:8080/09042027/bwGzYpJ/94133
+
+#EXTINF:-1 group-title="Filma",Tring Jolly
+http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126564 | https://sas24.live:443/27922223103749/87377791142054/972140
+
+#EXTINF:-1 group-title="Filma",Tring Series
+http://apptv.xyz:8080/09042027/bwGzYpJ/63411 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1061022.ts | https://stream.arkiva.dev/seg/M_9vEM7vF0GzyXPMr8y5-uFHqIzPW4fT8TkBDB6Uq53IHHF0GaTRGY4rXBvn9aFiqUJ2VSrzvbsolKMyH71sW9FJyCJa6TCGRcnWtzlcmF1xdo-VJe9UBzUuQigrKc4TyNoq6kC8jhTkt-w
+
+#EXTINF:-1 group-title="Filma",Tring Life
+http://apptv.xyz:8080/09042027/bwGzYpJ/94134 | http://ibo.it-proxy-pass.xyz/live/c9m738i91o/eqhhbjjqac/1061021.ts
+
+#EXTINF:-1 group-title="Filma",Tring Novelas
+http://apptv.xyz:8080/09042027/bwGzYpJ/63257 | https://stream.arkiva.dev/seg/h2esz-xIQddjidEKkJBAdpQm4q-h5QiN5QTql1QU90_nyw2T-fZ69eCfQOwzvDlAlGPkLKuTjnnuSxJqw5JHfURDI9UeH7niIE3e36sBZi92MMqkvN5IckVGNxJWy36uLXoVFodNnfrO76mESz4aYaVHkIRVMwXYCg
+
+#EXTINF:-1 group-title="Filma",3 Plus
+http://apptv.xyz:8080/09042027/bwGzYpJ/94125 | https://stream.arkiva.dev/seg/pUi6PBUlVR3DozMpgl-FWDkrfau98j-251yvxGBwvFGGVXq-zRs5bHkLmFll1_zcemifu86oLRlPlq_wm4FDyw1EmClqopFHK-o8_IIZ92nOrTcA9m-rIdDdO3aFYpU0Y1qU9kOX6zi82PI | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126565
 
 
 
-#EXTINF:-1 RTSH 2
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/10912.ts
-
-#EXTINF:-1 RTSH 3
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/11182.ts
-
-#EXTINF:-1 RTSH 24
-http://apptv.xyz:8080/live/09042027/bwGzYpJ/10975.ts
+#EXTINF:-1 group-title="Filma",Kanal D Drama
+http://apptv.xyz:8080/09042027/bwGzYpJ/32299 | https://stream.arkiva.dev/seg/XsQS3v65aLcY1eCei5-hJY1oTe1-NfOUDQsiKzCHVNBdQ9YxSVv1Qn7v78WrbshEGQGtMeETGZLO1Cdm7TIz9CQsJqohMq6HUk77leamJzmEMtdBMquuMrOM1RWB7ceacHkZLZTpPCRUhPA3BQ | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33219
 
 
+#EXTINF:-1 group-title="Filma",MAX
+http://apptv.xyz:8080/09042027/bwGzYpJ/94045 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412342 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102530 | https://sas24.live:443/27922223103749/87377791142054/972173
 
+#EXTINF:-1 group-title="Filma",Drame
+http://apptv.xyz:8080/09042027/bwGzYpJ/94051 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412343 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102532 | https://sas24.live:443/27922223103749/87377791142054/594374
+
+#EXTINF:-1 group-title="Filma",Hits
+http://apptv.xyz:8080/09042027/bwGzYpJ/94046 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412339 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33214 | https://sas24.live:443/27922223103749/87377791142054/935173
+
+#EXTINF:-1 group-title="Filma",Aksion
+http://apptv.xyz:8080/09042027/bwGzYpJ/94047 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412337 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/36189 | https://sas24.live:443/27922223103749/87377791142054/972123
+
+#EXTINF:-1 group-title="Filma",Thriller
+http://apptv.xyz:8080/09042027/bwGzYpJ/94050 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412344 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33216 | https://sas24.live:443/27922223103749/87377791142054/972124
+
+#EXTINF:-1 group-title="Filma",Komedi
+http://apptv.xyz:8080/09042027/bwGzYpJ/94049 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412338 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33215 | https://sas24.live:443/27922223103749/87377791142054/972127
+
+#EXTINF:-1 group-title="Filma",Autor
+http://apptv.xyz:8080/09042027/bwGzYpJ/94052 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412340 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33213 | https://sas24.live:443/27922223103749/87377791142054/972128
+
+#EXTINF:-1 group-title="Filma",Stinet
+http://apptv.xyz:8080/09042027/bwGzYpJ/94053 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412341 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33220 | https://sas24.live:443/27922223103749/87377791142054/972130
+
+#EXTINF:-1 group-title="Filma",Gold
+http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412346
+
+#EXTINF:-1 group-title="Filma",KS Premier 1
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/35862.ts
+
+#EXTINF:-1 group-title="Filma",KS Premier 2
+#http://apptv.xyz:8080/live/09042027/bwGzYpJ/35863.ts
+
+
+#EXTINF:-1 group-title="Filma",KS Premier 3
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/35864.ts
+
+
+#EXTINF:-1 group-title="Filma",KS Premier 4
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/35865.ts
+
+#EXTINF:-1 group-title="Filma",KS Fast and Furios 24
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/37084.ts
+
+#EXTINF:-1 group-title="Filma",KS Fast Action
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/26937.ts
+
+#EXTINF:-1 group-title="Filma",KS Thriller
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/25473.ts
+
+#EXTINF:-1 group-title="Filma",KS Comedy
+http://apptv.xyz:8080/live/09042027/bwGzYpJ/16969.ts
+
+#EXTINF:-1 group-title="Filma",KS Epic
+https://eagletv.kejvinho.workers.dev/stream?url=http://apptv.xyz:8080/live/09042027/bwGzYpJ/21883.ts
+
+
+############ DOKUMENTARE ############
+
+#EXTINF:-1 group-title="Dokumentare",RTSH Agro
+http://apptv.xyz:8080/09042027/bwGzYpJ/88438
+
+#EXTINF:-1 group-title="Dokumentare",Explorer Natyra
+http://apptv.xyz:8080/09042027/bwGzYpJ/94065 | http://tvportal4k.xyz/live/Rachideddib26/d41g5hkc1b/33428.ts | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412271 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33311 | https://sas24.live:443/27922223103749/87377791142054/972094 | https://sas24.live:443/27922223103749/87377791142054/972095
+
+#EXTINF:-1 group-title="Dokumentare",Explorer History 
+http://apptv.xyz:8080/09042027/bwGzYpJ/94067 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33239 | https://sas24.live:443/27922223103749/87377791142054/972096 | https://sas24.live:443/27922223103749/87377791142054/972097
+
+#EXTINF:-1 group-title="Dokumentare",Explorer Shkence
+http://apptv.xyz:8080/09042027/bwGzYpJ/94066 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33240 | https://sas24.live:443/27922223103749/87377791142054/972098
+
+#EXTINF:-1 group-title="Dokumentare",Living HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/94139 | https://stream.arkiva.dev/seg/u8xAmkc_rVP646ndJb4-fyhM7ZR9SN8sIxrN8lLeb_RgjKXfnaqAaHkjUgYd5mqw7GYhv6-TMESb3HOVmr5EbFkO4y9BLCste1-kcZK1_JfKeGvwoLofzw | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33248
+
+#EXTINF:-1 group-title="Dokumentare",NAT GEO
+http://apptv.xyz:8080/09042027/bwGzYpJ/116771 | http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1060959.ts | http://app.live-44359.xyz/player_api.php?action=get_short_epg&username=uk42l6vbzw&password=bc6sogty64&stream_id=1060959 
+
+#EXTINF:-1 group-title="Dokumentare",Tring World
+http://apptv.xyz:8080/09042027/bwGzYpJ/1176 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22644 | https://sas24.live:443/27922223103749/87377791142054/972099
+
+#EXTINF:-1 group-title="Dokumentare",Tring Planet
+http://apptv.xyz:8080/09042027/bwGzYpJ/1167 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22636 | https://sas24.live:443/27922223103749/87377791142054/972100
+
+#EXTINF:-1 group-title="Dokumentare",Tring History
+http://apptv.xyz:8080/09042027/bwGzYpJ/1316 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22634 | https://sas24.live:443/27922223103749/87377791142054/972101
+
+#EXTINF:-1 group-title="Dokumentare",Discovery Channel
+http://apptv.xyz:8080/09042027/bwGzYpJ/99676 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102528 | https://sas24.live:443/27922223103749/87377791142054/972106 | 
+
+
+############ FËMIJË ############
+#EXTINF:-1 group-title="Femije",ARB Florinjte
+https://stream.arkiva.dev/seg/WUDm95HVPaL1j2h6pb4msVyxfb1M9b3vXOUWdPitIGksn-fN4rngjx_VNoSrilCD_hClKuhy07RqBX8n8QZttI-nFkAMRnhRkobGuRUtRsc3Mz10PwfPifOEoLPdUdvPQLTQhcKSPLbh-chVNPl6MeArpQ
+
+
+#EXTINF:-1 group-title="Femije",Tring Tring
+http://apptv.xyz:8080/09042027/bwGzYpJ/94154 | http://ip.tvgp4.fun:80/PlayPro0100/SzcT9Ve8zH/412316 | http://apptv.xyz:8080/live/09042027/bwGzYpJ/1175.ts | https://stream.arkiva.dev/seg/5FN617A0-ahnuW7GFnQkA-YFbre9IGn9SipBBmRSI36mDo-D_Ho3mC7BSnjbosdZ-TtWj6jhovfIGtCW_pH513yHFFJwC1uDg1wUTC7Fv-gqAHgTaidWn2LJGQxNHN5wrXb2CMi_j5hxOxARJ9PHG2ifxM0E | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22643 | https://sas24.live:443/27922223103749/87377791142054/594347
+
+#EXTINF:-1 group-title="Femije",Tring Kids
+http://apptv.xyz:8080/09042027/bwGzYpJ/94155 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22635 | https://sas24.live:443/27922223103749/87377791142054/594354
+
+
+#EXTINF:-1 group-title="Femije",Tip Tv
+http://apptv.xyz:8080/09042027/bwGzYpJ/94156 | https://stream.arkiva.dev/seg/Jxb8Loaj17em5AkHKqraAxxAZpE40cHLzesibH_pu2-nugheraEAnEahilCaMYMlCyoXqsu43z-7q3gNgc5I8Ud0oGx-lbq074QbOxTyM0W5B3KQ50TTv75QRMh2er7S9issKSdQa5CzxN4 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22628
+
+#EXTINF:-1 group-title="Femije",Junior Tv
+http://apptv.xyz:8080/09042027/bwGzYpJ/958 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/35425 | https://sas24.live:443/27922223103749/87377791142054/594353
+
+#EXTINF:-1 group-title="Femije",Sofia Tv
+http://apptv.xyz:8080/09042027/bwGzYpJ/2487 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/22611 | https://sas24.live:443/27922223103749/87377791142054/972063
+
+#EXTINF:-1 group-title="Femije",Boomerang HD
+http://apptv.xyz:8080/09042027/bwGzYpJ/2588 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33261 | https://sas24.live:443/27922223103749/87377791142054/972065
+
+#EXTINF:-1 group-title="Femije",CARTOON NETWORK
+http://apptv.xyz:8080/09042027/bwGzYpJ/3395 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/102533 | https://sas24.live:443/27922223103749/87377791142054/972066
+
+#EXTINF:-1 group-title="Femije",Tao Tao HD
+#http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33023
+
+
+#EXTINF:-1 group-title="Femije",RTSH Femije
+http://apptv.xyz:8080/09042027/bwGzYpJ/15385 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126517
+
+#EXTINF:-1 group-title="Femije",Bubble TV
+https://stream.arkiva.dev/seg/upauhvNsRQq0XygTA0GIEgNhGLw-1YrUrhmppRBTrQl3CKmRjwWeZPNB3HT99f6YE88wRl-girNgr4Uyprtnt9_J7Qq-cPU8tpwW9HuwMpQWxOVdTRURe2TNRL3KCqCXAVueUcJWRtYAKP02ZcDYzpM
+
+#EXTINF:-1 group-title="Femije",Cufo
+http://apptv.xyz:8080/09042027/bwGzYpJ/94082 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/33267 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/4844 | https://sas24.live:443/27922223103749/87377791142054/594352
+
+
+#EXTINF:-1 group-title="Femije",Bang Bang
+http://apptv.xyz:8080/09042027/bwGzYpJ/104644 | http://prosan.tv:88/live/02049673274178/4036922326/95960.ts
+
+############ MUZIKË ############
+#EXTINF:-1 group-title="Muzike",Folk +
+http://apptv.xyz:8080/09042027/bwGzYpJ/945 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126508 | https://stream.arkiva.dev/seg/C0FFHEjF0Ylm2UcROPRnrPsn5AUO7xAvF9Ox0WG7wJvrAExDpeDR0yXNzUCdKCM5R-1vtL5438zMu_PUky3FQNYFkN39UhC38Qdxzsl5GiHmAtb4tmikXOLzQmNwBgFEXRBFP927GFeXzcwnA29MUl8 | https://sas24.live:443/27922223103749/87377791142054/972074
+
+#EXTINF:-1 group-title="Muzike",BBF Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/880 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126503 | https://sas24.live:443/27922223103749/87377791142054/972078 | https://stream.arkiva.dev/seg/FT332hIkqDdec3tQPyT_OY_z55VUNTvrwtlTA-tVyje-PV3qCUTAiv3LQUyWS-Rwrf6Vb2md3eYNAECH_4rqjhm6azQecS9BgUToPGbOGgNdMbNkUJaeqYudc7iaQd_Nw6zcWh7ORA
+
+#EXTINF:-1 group-title="Muzike",Melody TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/85583 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126505 | https://sas24.live:443/27922223103749/87377791142054/972075 | https://sas24.live:443/27922223103749/87377791142054/972076
+
+#EXTINF:-1 group-title="Muzike",Supersonic TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/1302 | #http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126495
+
+#EXTINF:-1 group-title="Muzike",Elrodi TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/2615 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126506 | https://sas24.live:443/27922223103749/87377791142054/972077
+
+
+#EXTINF:-1 group-title="Muzike",Klan Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/78723 | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/126507 | https://stream.arkiva.dev/seg/ZfA70UjTF8roPY8ucSm9bROyw8MKR82YrRY6xgG5-Ya3SBhU2fqp6-41_Kd5j6-bI5jze1hMQqn6W_LgpeLgwoscJ_b9joSBsekfje9dO2B77x5RW6pfKbskw-9zgO3EQGF-ql_AUVTS1iyDVosFsCqiiw
+
+#EXTINF:-1 group-title="Muzike",Zico TV
+http://apptv.xyz:8080/09042027/bwGzYpJ/1202 #https://shqiperia.dev/live/94/play | http://eyjehucx.sawdns.com:80/JMRAY7JW/BZY8BWKN/180091
+
+#EXTINF:-1 group-title="Muzike",TV Teuta
+http://apptv.xyz:8080/09042027/bwGzYpJ/50701 | http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591956.ts
+
+#EXTINF:-1 group-title="Muzike",HIT TV
+http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/591957.ts
+
+#EXTINF:-1 group-title="Muzike",My Music
+http://apptv.xyz:8080/09042027/bwGzYpJ/63553 | http://cf.business-cloud-8k.com/live/d3e3b631e048/0e624d3df6/294605.ts | http://185.245.1.95/live/play/ZUc1eGNuWkpaV2RzYVZaTGRUZG1OVXhWV1dKMlR6YzBZMDlrS3pOTVpVSlVaR3RxZGpadVQzZDNWVDA9/294605
+
+############ FERMA VIP ############
+#EXTINF:-1 group-title="Ferma Vip",Ferma Vip 1 
+https://stream.arkiva.dev/seg/V9YNLBodmzLZpClijw-JKRdYHw3VeWYPlFa32eiFN0Ie7_88abNHGjA0iJbo9tLskpiiDTeal8Q0Fx-Fy0XsWzZ5vm08_C92-MQzoZdw9OqLlukCKXOHrTn7sNXzBRU6nYv-TKY6pg
+
+#EXTINF:-1 group-title="Ferma Vip",Ferma Vip 2
+https://stream.arkiva.dev/seg/1zOWJm-zd3hn9D20PRf3GZ1svl6y3V2Iy1NChkejqNkvIObHNRy-NQD67v2bMGOmUvG2JkEBmfN9AtNH91IT9i9OspbMWW3uWoGLb5jMF9zzMSEwlUwrlAVYtnDGX6Jwn15_m-EW_w
+
+############ Remap ############
+
+#EXTINF:-1 group-title="Remap",X 00 
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/1063961.ts
+
+#EXTINF:-1 group-title="Remap",X 01
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/965172.ts
+
+#EXTINF:-1 group-title="Remap",X 02
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490608.ts
+
+
+
+#EXTINF:-1 group-title="Remap",X 04
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490613.ts
+
+#EXTINF:-1 group-title="Remap",X 05
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490634.ts
+
+#EXTINF:-1 group-title="Remap",X 06
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/60795.ts
+
+#EXTINF:-1 group-title="Remap",X 07
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/107125.ts
+
+#EXTINF:-1 group-title="Remap",X 08
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/490620.ts
+
+#EXTINF:-1 group-title="Remap",X 09
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233609.ts
+
+#EXTINF:-1 group-title="Remap",X 001
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233596.ts
+
+#EXTINF:-1 group-title="Remap",X 002
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233577.ts
+
+#EXTINF:-1 group-title="Remap",X 003
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233573.ts
+
+#EXTINF:-1 group-title="Remap",X 004
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233563.ts
+
+#EXTINF:-1 group-title="Remap",X 005
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233560.ts
+
+#EXTINF:-1 group-title="Remap",X 006
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233404.ts
+
+#EXTINF:-1 group-title="Remap",X 007
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233387.ts
+
+#EXTINF:-1 group-title="Remap",X 008
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233364.ts
+
+#EXTINF:-1 group-title="Remap",X 009
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/233341.ts
+
+
+#EXTINF:-1 group-title="Remap",X 010
+http://ip.tvgp4.fun:8080/live/PlayPro0100/SzcT9Ve8zH/663834.ts
+
+#EXTINF:-1 group-title="Remap",X 1   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991838.ts
+
+#EXTINF:-1 group-title="Remap",X 2    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991901.ts
+
+#EXTINF:-1 group-title="Remap",X 3   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991902.ts
+
+#EXTINF:-1 group-title="Remap",X 4    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991903.ts
+
+#EXTINF:-1 group-title="Remap",X 5   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991904.ts
+
+#EXTINF:-1 group-title="Remap",X 6    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991905.ts
+
+#EXTINF:-1 group-title="Remap",X 7
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991906.ts
+
+#EXTINF:-1 group-title="Remap",X 8   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991907.ts
+
+#EXTINF:-1 group-title="Remap",X 9  
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991908.ts
+
+#EXTINF:-1 group-title="Remap",X 10    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991909.ts
+
+#EXTINF:-1 group-title="Remap",X 11    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991913.ts
+
+#EXTINF:-1 group-title="Remap",X 12    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991847.ts
+
+#EXTINF:-1 group-title="Remap",X 13   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991848.ts
+
+#EXTINF:-1 group-title="Remap",X 14   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1991849.ts
+
+
+#EXTINF:-1 group-title="Remap",X 15    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1787999.ts
+
+#EXTINF:-1 group-title="Remap",X 16    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1941559.ts
+
+#EXTINF:-1 group-title="Remap",X 17  
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785661.ts
+
+#EXTINF:-1 group-title="Remap",X 18   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785621.ts
+
+#EXTINF:-1 group-title="Remap",X 19   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785616.ts
+
+#EXTINF:-1 group-title="Remap",X 20   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785603.ts
+
+#EXTINF:-1 group-title="Remap",X 21 
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785572.ts
+
+#EXTINF:-1 group-title="Remap",X 22   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1785566.ts
+
+#EXTINF:-1 group-title="Remap",X 23  
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985196.ts
+
+#EXTINF:-1 group-title="Remap",X 24   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985193.ts
+
+#EXTINF:-1 group-title="Remap",X 25   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985159.ts
+
+#EXTINF:-1 group-title="Remap",X 26  
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985189.ts
+
+#EXTINF:-1 group-title="Remap",X 27    
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985180.ts
+
+#EXTINF:-1 group-title="Remap",X 28   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985148.ts
+
+#EXTINF:-1 group-title="Remap",X 29   
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985150.ts
+
+#EXTINF:-1 group-title="Remap",X 30 
+http://app.live-44359.xyz/live/uk42l6vbzw/bc6sogty64/1985156.ts
 
